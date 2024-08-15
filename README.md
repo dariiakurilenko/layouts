@@ -21,4 +21,4 @@
 
 Адаптивная верстка
 
-link - https://66be34889cb5a3043f653c8d--celadon-hummingbird-6af0cc.netlify.app/
+link - https://dariak-teashop-layout.netlify.app/
