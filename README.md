@@ -1,3 +1,8 @@
+<h1>Here are my sites without functionality (only adaptive layout) <br>
+Stack: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+</h1>
+
 1) Organizer:
 ![image](https://github.com/user-attachments/assets/ab53b63d-0fd6-4c73-906c-c7381fa7985e)
 ![image](https://github.com/user-attachments/assets/de5ce3ec-5e14-4b07-9083-2b277a1c7103)
